@@ -31,5 +31,5 @@ This is a full-stack food delivery application built using the MERN stack. The a
 - In another terminal, navigate to the root directory and run 'npm start' to start the frontend server.
 
 ## Contact me
-- Email: [sinojiyaarchit@gmail.com] (mailto: sinojiyaarchit@gmail.com)
-- LinkedIn: [Archit Sinojiya] (https://www.linkedin.com/in/archit-sinojiya-58b917264/) 
+- Email: [sinojiyaarchit@gmail.com](mailto: sinojiyaarchit@gmail.com)
+- LinkedIn: [Archit Sinojiya](https://www.linkedin.com/in/archit-sinojiya-58b917264/) 
